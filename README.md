@@ -5,7 +5,7 @@
 - Beautiful Soup is a library written in Python that extracts data out of HTML and XML files. It works well if you want to get data quickly and saves programmers a lot of time.
 
 - FindSomethingInURL.py file 
-  Web Scraping using beautiful to find a keyword in the user input URL and returns the response code.
+  - Web Scraping using beautifulsoup library to find a keyword in the user input URL and returns the response code.
   
 - Pre-requisite Installations:
   - pip install requests
